@@ -6,4 +6,4 @@ def play_game(): #Play the game
     x = random.uniform(0,1)
     s += x
     c += 1
-  Print("Your game lasted " + str(c) + "rounds")
+  Print("Your game lasted " + str(c) + " rounds")
